@@ -14,4 +14,23 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="src\202. Happy Number.md">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="src\1. Tow Sum.md">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="src\2. Add Two Numbers.md">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="src\3. Longest Substring Without Repeating Characters.md">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="src\21. Merge Two Sorted Lists.md">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="src\11. Container With Most Water.md" />
+    <None Include="src\206. Reverse Linked List.md" />
+  </ItemGroup>
 </Project>
