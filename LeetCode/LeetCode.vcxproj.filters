@@ -32,5 +32,9 @@
     </None>
     <None Include="src\11. Container With Most Water.md" />
     <None Include="src\206. Reverse Linked List.md" />
+    <None Include="src\19. Remove Nth Node From End of List.md" />
+    <None Include="src\231. Power of Two.md" />
+    <None Include="src\112. Path Sum.md" />
+    <None Include="src\623. Add One Row to Tree.md" />
   </ItemGroup>
 </Project>
