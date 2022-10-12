@@ -32,6 +32,7 @@
     <None Include="src\334. Increasing Triplet Subsequence.md" />
     <None Include="src\623. Add One Row to Tree.md" />
     <None Include="src\653. Two Sum IV - Input is a BST.md" />
+    <None Include="src\976. Largest Perimeter Triangle.md" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{A480C318-FC5B-4DBB-AB51-10A976083CFD}</ProjectGuid>
