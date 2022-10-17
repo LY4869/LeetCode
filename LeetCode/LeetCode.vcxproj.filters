@@ -41,5 +41,6 @@
     <None Include="src\976. Largest Perimeter Triangle.md" />
     <None Include="src\237. Delete Node in a Linked List.md" />
     <None Include="src\2095. Delete the Middle Node of a Linked List.md" />
+    <None Include="src\1832. Check if the Sentence Is Pangram.md" />
   </ItemGroup>
 </Project>

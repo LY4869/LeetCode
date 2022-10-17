@@ -22,6 +22,7 @@
     <None Include="src\1. Tow Sum.md" />
     <None Include="src\11. Container With Most Water.md" />
     <None Include="src\112. Path Sum.md" />
+    <None Include="src\1832. Check if the Sentence Is Pangram.md" />
     <None Include="src\19. Remove Nth Node From End of List.md" />
     <None Include="src\2. Add Two Numbers.md" />
     <None Include="src\202. Happy Number.md" />
