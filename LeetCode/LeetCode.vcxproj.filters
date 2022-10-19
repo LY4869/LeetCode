@@ -43,5 +43,6 @@
     <None Include="src\2095. Delete the Middle Node of a Linked List.md" />
     <None Include="src\1832. Check if the Sentence Is Pangram.md" />
     <None Include="src\38. Count and Say.md" />
+    <None Include="src\692. Top K Frequent Words.md" />
   </ItemGroup>
 </Project>
