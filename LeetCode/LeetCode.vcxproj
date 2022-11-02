@@ -22,6 +22,7 @@
     <None Include="src\1. Tow Sum.md" />
     <None Include="src\11. Container With Most Water.md" />
     <None Include="src\112. Path Sum.md" />
+    <None Include="src\12. Integer to Roman.md" />
     <None Include="src\1832. Check if the Sentence Is Pangram.md" />
     <None Include="src\19. Remove Nth Node From End of List.md" />
     <None Include="src\2. Add Two Numbers.md" />
@@ -37,6 +38,7 @@
     <None Include="src\623. Add One Row to Tree.md" />
     <None Include="src\653. Two Sum IV - Input is a BST.md" />
     <None Include="src\692. Top K Frequent Words.md" />
+    <None Include="src\766. Toeplitz Matrix.md" />
     <None Include="src\976. Largest Perimeter Triangle.md" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

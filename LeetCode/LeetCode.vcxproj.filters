@@ -44,5 +44,7 @@
     <None Include="src\1832. Check if the Sentence Is Pangram.md" />
     <None Include="src\38. Count and Say.md" />
     <None Include="src\692. Top K Frequent Words.md" />
+    <None Include="src\12. Integer to Roman.md" />
+    <None Include="src\766. Toeplitz Matrix.md" />
   </ItemGroup>
 </Project>
