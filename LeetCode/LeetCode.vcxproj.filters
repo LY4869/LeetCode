@@ -52,5 +52,6 @@
     <None Include="src\901. Online Stock Span.md" />
     <None Include="src\1047. Remove All Adjacent Duplicates In String.md" />
     <None Include="src\26. Remove Duplicates from Sorted Array.md" />
+    <None Include="src\222. Count Complete Tree Nodes.md" />
   </ItemGroup>
 </Project>

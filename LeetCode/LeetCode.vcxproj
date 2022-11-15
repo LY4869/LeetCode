@@ -33,6 +33,7 @@
     <None Include="src\206. Reverse Linked List.md" />
     <None Include="src\2095. Delete the Middle Node of a Linked List.md" />
     <None Include="src\21. Merge Two Sorted Lists.md" />
+    <None Include="src\222. Count Complete Tree Nodes.md" />
     <None Include="src\231. Power of Two.md" />
     <None Include="src\237. Delete Node in a Linked List.md" />
     <None Include="src\26. Remove Duplicates from Sorted Array.md" />
