@@ -52,6 +52,10 @@
     <None Include="src\901. Online Stock Span.md" />
     <None Include="src\1047. Remove All Adjacent Duplicates In String.md" />
     <None Include="src\26. Remove Duplicates from Sorted Array.md" />
+<<<<<<< HEAD
     <None Include="src\222. Count Complete Tree Nodes.md" />
+=======
+    <None Include="src\151. Reverse Words in a String.md" />
+>>>>>>> ef8b1984d1808c005324c72bdf33353a81ddf4bb
   </ItemGroup>
 </Project>
