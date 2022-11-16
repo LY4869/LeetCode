@@ -1,61 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Filter Include="Source Files">
-      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
-      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
-    </Filter>
-    <Filter Include="Header Files">
-      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
-      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
-    </Filter>
-    <Filter Include="Resource Files">
-      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
-      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
-    </Filter>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="src\202. Happy Number.md">
-      <Filter>Resource Files</Filter>
-    </None>
-    <None Include="src\1. Tow Sum.md">
-      <Filter>Resource Files</Filter>
-    </None>
-    <None Include="src\2. Add Two Numbers.md">
-      <Filter>Resource Files</Filter>
-    </None>
-    <None Include="src\3. Longest Substring Without Repeating Characters.md">
-      <Filter>Resource Files</Filter>
-    </None>
-    <None Include="src\21. Merge Two Sorted Lists.md">
-      <Filter>Resource Files</Filter>
-    </None>
+    <None Include="src\1. Tow Sum.md" />
+    <None Include="src\1047. Remove All Adjacent Duplicates In String.md" />
     <None Include="src\11. Container With Most Water.md" />
-    <None Include="src\206. Reverse Linked List.md" />
-    <None Include="src\19. Remove Nth Node From End of List.md" />
-    <None Include="src\231. Power of Two.md" />
     <None Include="src\112. Path Sum.md" />
+    <None Include="src\12. Integer to Roman.md" />
+    <None Include="src\1323. Maximum 69 Number.md" />
+    <None Include="src\151. Reverse Words in a String.md" />
+    <None Include="src\1544. Make The String Great.md" />
+    <None Include="src\1832. Check if the Sentence Is Pangram.md" />
+    <None Include="src\19. Remove Nth Node From End of List.md" />
+    <None Include="src\2. Add Two Numbers.md" />
+    <None Include="src\202. Happy Number.md" />
+    <None Include="src\206. Reverse Linked List.md" />
+    <None Include="src\2095. Delete the Middle Node of a Linked List.md" />
+    <None Include="src\21. Merge Two Sorted Lists.md" />
+    <None Include="src\222. Count Complete Tree Nodes.md" />
+    <None Include="src\231. Power of Two.md" />
+    <None Include="src\237. Delete Node in a Linked List.md" />
+    <None Include="src\26. Remove Duplicates from Sorted Array.md" />
+    <None Include="src\3. Longest Substring Without Repeating Characters.md" />
+    <None Include="src\334. Increasing Triplet Subsequence.md" />
+    <None Include="src\345. Reverse Vowels of a String.md" />
+    <None Include="src\38. Count and Say.md" />
     <None Include="src\623. Add One Row to Tree.md" />
     <None Include="src\653. Two Sum IV - Input is a BST.md" />
-    <None Include="src\334. Increasing Triplet Subsequence.md" />
-    <None Include="src\976. Largest Perimeter Triangle.md" />
-    <None Include="src\237. Delete Node in a Linked List.md" />
-    <None Include="src\2095. Delete the Middle Node of a Linked List.md" />
-    <None Include="src\1832. Check if the Sentence Is Pangram.md" />
-    <None Include="src\38. Count and Say.md" />
     <None Include="src\692. Top K Frequent Words.md" />
-    <None Include="src\12. Integer to Roman.md" />
     <None Include="src\766. Toeplitz Matrix.md" />
-    <None Include="src\345. Reverse Vowels of a String.md" />
-    <None Include="src\1323. Maximum 69 Number.md" />
-    <None Include="src\1544. Make The String Great.md" />
     <None Include="src\901. Online Stock Span.md" />
-    <None Include="src\1047. Remove All Adjacent Duplicates In String.md" />
-    <None Include="src\26. Remove Duplicates from Sorted Array.md" />
-<<<<<<< HEAD
-    <None Include="src\222. Count Complete Tree Nodes.md" />
-=======
-    <None Include="src\151. Reverse Words in a String.md" />
->>>>>>> ef8b1984d1808c005324c72bdf33353a81ddf4bb
+    <None Include="src\976. Largest Perimeter Triangle.md" />
+    <None Include="src\374. Guess Number Higher or Lower.md" />
   </ItemGroup>
 </Project>

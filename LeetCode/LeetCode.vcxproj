@@ -41,6 +41,7 @@
     <None Include="src\3. Longest Substring Without Repeating Characters.md" />
     <None Include="src\334. Increasing Triplet Subsequence.md" />
     <None Include="src\345. Reverse Vowels of a String.md" />
+    <None Include="src\374. Guess Number Higher or Lower.md" />
     <None Include="src\38. Count and Say.md" />
     <None Include="src\623. Add One Row to Tree.md" />
     <None Include="src\653. Two Sum IV - Input is a BST.md" />
