@@ -35,6 +35,7 @@
     <None Include="src\2095. Delete the Middle Node of a Linked List.md" />
     <None Include="src\21. Merge Two Sorted Lists.md" />
     <None Include="src\222. Count Complete Tree Nodes.md" />
+    <None Include="src\223. Rectangle Area.md" />
     <None Include="src\231. Power of Two.md" />
     <None Include="src\237. Delete Node in a Linked List.md" />
     <None Include="src\26. Remove Duplicates from Sorted Array.md" />
@@ -47,6 +48,7 @@
     <None Include="src\653. Two Sum IV - Input is a BST.md" />
     <None Include="src\692. Top K Frequent Words.md" />
     <None Include="src\766. Toeplitz Matrix.md" />
+    <None Include="src\836. Rectangle OverlapSource.md" />
     <None Include="src\901. Online Stock Span.md" />
     <None Include="src\976. Largest Perimeter Triangle.md" />
   </ItemGroup>
