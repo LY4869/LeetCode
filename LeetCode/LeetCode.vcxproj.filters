@@ -39,5 +39,6 @@
     <None Include="src\1926. Nearest Exit from Entrance in Maze.md" />
     <None Include="src\36. Valid Sudoku.md" />
     <None Include="src\79. Word Search.md" />
+    <None Include="src\208. Implement Trie (Prefix Tree).md" />
   </ItemGroup>
 </Project>

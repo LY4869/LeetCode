@@ -33,6 +33,7 @@
     <None Include="src\2. Add Two Numbers.md" />
     <None Include="src\202. Happy Number.md" />
     <None Include="src\206. Reverse Linked List.md" />
+    <None Include="src\208. Implement Trie (Prefix Tree).md" />
     <None Include="src\2095. Delete the Middle Node of a Linked List.md" />
     <None Include="src\21. Merge Two Sorted Lists.md" />
     <None Include="src\222. Count Complete Tree Nodes.md" />
