@@ -38,5 +38,6 @@
     <None Include="src\4. Median of Two Sorted Arrays.md" />
     <None Include="src\1926. Nearest Exit from Entrance in Maze.md" />
     <None Include="src\36. Valid Sudoku.md" />
+    <None Include="src\79. Word Search.md" />
   </ItemGroup>
 </Project>
