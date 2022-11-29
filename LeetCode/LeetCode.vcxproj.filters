@@ -42,5 +42,6 @@
     <None Include="src\208. Implement Trie (Prefix Tree).md" />
     <None Include="src\212. Word Search II.md" />
     <None Include="src\2225. Find Players With Zero or One Losses.md" />
+    <None Include="src\380. Insert Delete GetRandom O(1).md" />
   </ItemGroup>
 </Project>
