@@ -28,6 +28,7 @@
     <None Include="src\1323. Maximum 69 Number.md" />
     <None Include="src\151. Reverse Words in a String.md" />
     <None Include="src\1544. Make The String Great.md" />
+    <None Include="src\1704. Determine if String Halves Are Alike.md" />
     <None Include="src\1832. Check if the Sentence Is Pangram.md" />
     <None Include="src\19. Remove Nth Node From End of List.md" />
     <None Include="src\1926. Nearest Exit from Entrance in Maze.md" />

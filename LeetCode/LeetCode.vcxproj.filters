@@ -44,5 +44,6 @@
     <None Include="src\2225. Find Players With Zero or One Losses.md" />
     <None Include="src\380. Insert Delete GetRandom O(1).md" />
     <None Include="src\1207. Unique Number of Occurrences.md" />
+    <None Include="src\1704. Determine if String Halves Are Alike.md" />
   </ItemGroup>
 </Project>
