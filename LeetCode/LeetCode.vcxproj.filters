@@ -45,5 +45,6 @@
     <None Include="src\380. Insert Delete GetRandom O(1).md" />
     <None Include="src\1207. Unique Number of Occurrences.md" />
     <None Include="src\1704. Determine if String Halves Are Alike.md" />
+    <None Include="src\1657. Determine if Two Strings Are Close.md" />
   </ItemGroup>
 </Project>
