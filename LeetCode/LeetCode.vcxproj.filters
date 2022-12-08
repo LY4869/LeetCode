@@ -48,5 +48,7 @@
     <None Include="src\1657. Determine if Two Strings Are Close.md" />
     <None Include="src\876. Middle of the Linked List.md" />
     <None Include="src\328. Odd Even Linked List.md" />
+    <None Include="src\938. Range Sum of BST.md" />
+    <None Include="src\872. Leaf-Similar Trees.md" />
   </ItemGroup>
 </Project>
