@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="src\1. Tow Sum.md" />
+    <None Include="src\1026. Maximum Difference Between Node and Ancestor.md" />
     <None Include="src\1047. Remove All Adjacent Duplicates In String.md" />
     <None Include="src\11. Container With Most Water.md" />
     <None Include="src\112. Path Sum.md" />
