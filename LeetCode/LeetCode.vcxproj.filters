@@ -51,5 +51,6 @@
     <None Include="src\938. Range Sum of BST.md" />
     <None Include="src\872. Leaf-Similar Trees.md" />
     <None Include="src\1026. Maximum Difference Between Node and Ancestor.md" />
+    <None Include="src\70. Climbing Stairs.md" />
   </ItemGroup>
 </Project>

@@ -60,6 +60,7 @@
     <None Include="src\623. Add One Row to Tree.md" />
     <None Include="src\653. Two Sum IV - Input is a BST.md" />
     <None Include="src\692. Top K Frequent Words.md" />
+    <None Include="src\70. Climbing Stairs.md" />
     <None Include="src\766. Toeplitz Matrix.md" />
     <None Include="src\79. Word Search.md" />
     <None Include="src\836. Rectangle OverlapSource.md" />
