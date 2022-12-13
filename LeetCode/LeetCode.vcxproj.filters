@@ -52,5 +52,6 @@
     <None Include="src\872. Leaf-Similar Trees.md" />
     <None Include="src\1026. Maximum Difference Between Node and Ancestor.md" />
     <None Include="src\70. Climbing Stairs.md" />
+    <None Include="src\931. Minimum Falling Path Sum.md" />
   </ItemGroup>
 </Project>
