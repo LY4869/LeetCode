@@ -34,6 +34,7 @@
     <None Include="src\1832. Check if the Sentence Is Pangram.md" />
     <None Include="src\19. Remove Nth Node From End of List.md" />
     <None Include="src\1926. Nearest Exit from Entrance in Maze.md" />
+    <None Include="src\198. House Robber.md" />
     <None Include="src\2. Add Two Numbers.md" />
     <None Include="src\202. Happy Number.md" />
     <None Include="src\206. Reverse Linked List.md" />
