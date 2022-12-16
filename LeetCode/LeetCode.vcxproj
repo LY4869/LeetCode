@@ -46,6 +46,7 @@
     <None Include="src\2225. Find Players With Zero or One Losses.md" />
     <None Include="src\223. Rectangle Area.md" />
     <None Include="src\231. Power of Two.md" />
+    <None Include="src\232. Implement Queue using Stacks.md" />
     <None Include="src\237. Delete Node in a Linked List.md" />
     <None Include="src\26. Remove Duplicates from Sorted Array.md" />
     <None Include="src\263. Ugly Number.md" />

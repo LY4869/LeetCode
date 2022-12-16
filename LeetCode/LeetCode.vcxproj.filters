@@ -54,5 +54,6 @@
     <None Include="src\70. Climbing Stairs.md" />
     <None Include="src\931. Minimum Falling Path Sum.md" />
     <None Include="src\198. House Robber.md" />
+    <None Include="src\232. Implement Queue using Stacks.md" />
   </ItemGroup>
 </Project>
