@@ -55,5 +55,6 @@
     <None Include="src\931. Minimum Falling Path Sum.md" />
     <None Include="src\198. House Robber.md" />
     <None Include="src\232. Implement Queue using Stacks.md" />
+    <None Include="src\1971. Find if Path Exists in Graph.md" />
   </ItemGroup>
 </Project>
