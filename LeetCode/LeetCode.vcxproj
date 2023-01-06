@@ -32,6 +32,7 @@
     <None Include="src\1657. Determine if Two Strings Are Close.md" />
     <None Include="src\1704. Determine if String Halves Are Alike.md" />
     <None Include="src\1832. Check if the Sentence Is Pangram.md" />
+    <None Include="src\1833. Maximum Ice Cream Bars.md" />
     <None Include="src\19. Remove Nth Node From End of List.md" />
     <None Include="src\1926. Nearest Exit from Entrance in Maze.md" />
     <None Include="src\1971. Find if Path Exists in Graph.md" />
