@@ -57,5 +57,8 @@
     <None Include="src\232. Implement Queue using Stacks.md" />
     <None Include="src\1971. Find if Path Exists in Graph.md" />
     <None Include="src\841. Keys and Rooms.md" />
+    <None Include="src\1833. Maximum Ice Cream Bars.md" />
+    <None Include="src\797. All Paths From Source to Target.md" />
+    <None Include="src\144. Binary Tree Preorder Traversal.md" />
   </ItemGroup>
 </Project>
