@@ -76,6 +76,7 @@
     <None Include="src\872. Leaf-Similar Trees.md" />
     <None Include="src\876. Middle of the Linked List.md" />
     <None Include="src\901. Online Stock Span.md" />
+    <None Include="src\918. Maximum Sum Circular Subarray.md" />
     <None Include="src\931. Minimum Falling Path Sum.md" />
     <None Include="src\938. Range Sum of BST.md" />
     <None Include="src\976. Largest Perimeter Triangle.md" />

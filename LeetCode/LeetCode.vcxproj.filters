@@ -61,5 +61,6 @@
     <None Include="src\797. All Paths From Source to Target.md" />
     <None Include="src\144. Binary Tree Preorder Traversal.md" />
     <None Include="src\100. Same Tree.md" />
+    <None Include="src\918. Maximum Sum Circular Subarray.md" />
   </ItemGroup>
 </Project>
