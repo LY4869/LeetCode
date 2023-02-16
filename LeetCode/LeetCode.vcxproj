@@ -22,6 +22,7 @@
     <None Include="src\1. Tow Sum.md" />
     <None Include="src\100. Same Tree.md" />
     <None Include="src\1026. Maximum Difference Between Node and Ancestor.md" />
+    <None Include="src\104. Maximum Depth of Binary Tree.md" />
     <None Include="src\1047. Remove All Adjacent Duplicates In String.md" />
     <None Include="src\11. Container With Most Water.md" />
     <None Include="src\112. Path Sum.md" />
@@ -81,6 +82,7 @@
     <None Include="src\931. Minimum Falling Path Sum.md" />
     <None Include="src\938. Range Sum of BST.md" />
     <None Include="src\976. Largest Perimeter Triangle.md" />
+    <None Include="src\989. Add to Array-Form of Integer.md" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{A480C318-FC5B-4DBB-AB51-10A976083CFD}</ProjectGuid>

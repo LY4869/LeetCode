@@ -63,5 +63,7 @@
     <None Include="src\100. Same Tree.md" />
     <None Include="src\918. Maximum Sum Circular Subarray.md" />
     <None Include="src\1523. Count Odd Numbers in an Interval Range.md" />
+    <None Include="src\989. Add to Array-Form of Integer.md" />
+    <None Include="src\104. Maximum Depth of Binary Tree.md" />
   </ItemGroup>
 </Project>
